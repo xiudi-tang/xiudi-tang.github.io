@@ -1,7 +1,6 @@
 # Xiudi Tang 唐修棣
 
-|<p>[[Research Interests]](/#research-interests)</p> <p>[[Preprints]](/#preprints)</p> <p>[[Publications]](/#publications)</p> <p>[[Past Teaching]](/#past-teaching)</p> <p>[[Who I am and Who I am not]](/#who-i-am-and-who-i-am-not)</p>|![In front of Malott Hall, August 2019.](/portrait.jpg)
-:--------------------------|--------------------------:
+![In front of Malott Hall, August 2019.](/portrait.jpg)
 
 I am a Postdoctoral Fellow at [Department of Mathematics, University of Toronto](https://www.math.toronto.edu/cms/) with my mentors [Yael Karshon](http://www.math.utoronto.ca/~karshon/) and [Marco Gualtieri](http://www.math.toronto.edu/mgualt/) after begin a Visiting Assistant Professor at [Cornell University](https://math.cornell.edu/) with my mentor [Reyer Sjamaar](https://math.cornell.edu/reyer-sjamaar).
 
@@ -76,5 +75,6 @@ Math 20E: Vector Calculus\*, *Winter 2015*
 > I am a thinking human being.
 > I am not a working machine.
 
+Last updated 2019/10/19.
 
 &copy; 2019 Xiudi Tang
