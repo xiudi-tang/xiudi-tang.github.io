@@ -12,6 +12,7 @@ Take a look at my [CV](/cv.pdf) and find the preprints of most of my articles on
 I am teaching [MAT137: Calculus!](https://q.utoronto.ca/courses/128651) for Fall 2019. My office is at [DH 3019](https://www.google.com/maps/place/87M2H82M%2B5G).
 
 ## Research Interests
+
 - differential geometry
   - symplectic geometry
     - integrable systems
@@ -72,8 +73,9 @@ Math 20E: Vector Calculus\*, *Winter 2015*
 \* *Teaching Assistant*
 
 ## Who I am and Who I am not
-> I am a thinking human being.
-> I am not a working machine.
+
+    I am a thinking human being.
+    I am not a working machine.
 
 Last updated 2019/10/19.
 
