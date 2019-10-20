@@ -40,7 +40,7 @@ I am teaching [MAT137: Calculus!](https://q.utoronto.ca/courses/128651) for Fall
 
 ### Cornell University
 
-Math 1910: Calculus for Engineers, *Summer 2019* 
+Math 1920: Multivariable Calculus for Engineers, *Summer 2019* 
 
 Math 1120: Calculus II, *Spring 2019*
 
