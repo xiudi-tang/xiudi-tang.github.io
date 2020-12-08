@@ -74,7 +74,7 @@ Math 20E: Vector Calculus\*, *Winter 2015*
 
 ## Who I am and Who I am not
 
-    I am a thinking human being.
+    I am a thinking [human being](/symplectic_excision.pdf).
     I am not a working machine.
 
 Last updated 2019/10/19.
