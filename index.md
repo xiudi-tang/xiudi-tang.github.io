@@ -43,6 +43,14 @@ Take a look at my [CV](/cv.pdf) and find the preprints of most of my articles on
 
 ### University of Toronto
 
+MAT136H5S: Integral Calculus, *Winter 2021*
+
+MAT236H5F: Vector Calculus, *Fall 2020*
+
+MAT102H5S: Introduction to Mathematical Proofs, *Winter 2020*
+
+MAT1375Y5: Calculus!, *Fall 2019*
+
 ### Cornell University
 
 Math 1920: Multivariable Calculus for Engineers, *Summer 2019* 
